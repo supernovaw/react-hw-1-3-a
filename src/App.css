@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.star {
+  width: 16px;
+  height: 16px;
+  margin-inline: 1.5px;
+}
+
+.card-body-stars {
+  display: inline-block;
+  padding: 0;
+}
+
+.Stars {
+  padding: 0;
+}
